@@ -1,35 +1,35 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d days ago";
+"%d days ago" = "%dd";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d hours ago";
+"%d hours ago" = "%dh";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutes ago";
+"%d minutes ago" = "%dm";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d months ago";
+"%d months ago" = "%dmon";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d seconds ago";
+"%d seconds ago" = "%ds";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d weeks ago";
+"%d weeks ago" = "%dw";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d years ago";
+"%d years ago" = "%dy";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A minute ago";
+"A minute ago" = "1m";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hour ago";
+"An hour ago" = "1h";
 
 /* No comment provided by engineer. */
-"Just now" = "Just now";
+"Just now" = "now";
 
 /* No comment provided by engineer. */
-"Last month" = "Last month";
+"Last month" = "1mon";
 
 /* No comment provided by engineer. */
 "Last week" = "Last week";
@@ -41,22 +41,22 @@
 "Yesterday" = "Yesterday";
 
 /* No comment provided by engineer. */
-"1 year ago" = "1 year ago";
+"1 year ago" = "1y";
 
 /* No comment provided by engineer. */
-"1 month ago" = "1 month ago";
+"1 month ago" = "1mon";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 week ago";
+"1 week ago" = "1w";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 day ago";
+"1 day ago" = "1d";
 
 /* No comment provided by engineer. */
-"This morning" = "This morning";
+"This morning" = "Today";
 
 /* No comment provided by engineer. */
-"This afternoon" = "This afternoon";
+"This afternoon" = "Today";
 
 /* No comment provided by engineer. */
 "Today" = "Today";
