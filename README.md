@@ -1,29 +1,12 @@
 ## Description
 
-This is an iOS, Objective-C, Cocoa Touch, iPhone, iPad category for `NSDate`. It gives `NSDate` the ability to report times like `"A moment ago"`, `"30 seconds ago"`, `"5 minutes ago"`, `"Yesterday"`, `"Last month"`, `"2 years ago"`, and so on.
+This is an iOS, Objective-C, Cocoa Touch, iPhone, iPad category for `NSDate`. It gives `NSDate` the ability to report times like `"now"`, `"30s"`, `"5m"`, `"Yesterday"`, `"Last month"`, `"2y"`, and so on.
 
 This functionality has variously been referred to as a "time ago", "time since", "relative date", or "fuzzy date" feature.
 
 `NSDate+TimeAgo` currently supports the following languages: 
 
 - en (English)
-- es (Spanish)
-- zh_Hans (Chinese Simplified)
-- zh_Hant (Chinese Traditional)
-- pt_BR (Brazilian Portuguese)
-- fr (French)
-- it (Italian)
-- ru (Russian)
-- de (German)
-- nl (Dutch)
-- hu (Hungarian)
-- fi (Finnish)
-- ja (Japanese)
-- vi (Vietnamese)
-- ro (Romanian)
-- da (Danish)
-- cs (Czech)
-- nb (Norwegian)
 
 If you know a language not listed here, please consider submitting a translation.
 
@@ -42,8 +25,8 @@ NSLog(@"Output is: \"%@\"", ago);
 
 2 other methods are available:
 
-* `dateTimeAgo`: returns times with only strings of the type: "*{value}* *{unit}* ago"
-* `dateTimeUntilNow`: returns only "yesterday" / "this morning" / "last week" / "this month" -- less precise than `dateTimeAgo` but more natural
+* `dateTimeAgo`: returns times with only strings of the type: "*{value}{unit}*"
+* `dateTimeUntilNow`: returns only "Yesterday" / "Today" / "Last week" / "This month" -- less precise than `dateTimeAgo` but more natural
 
 Those three methods can be interchanged as they have the same signature.
 
